@@ -5,4 +5,3 @@
 **Chalenges**: 
 - Define a statistical method to link locomotor activity to anxiety in fishes;
 - Analyse the genetoxity of tebuconazole-based commercial product. 
-
