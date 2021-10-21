@@ -1,1 +1,6 @@
+##Reading data
+
+dados<-read.table("Tassia.txt", h=T)
+dados
+
 
